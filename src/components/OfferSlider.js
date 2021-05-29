@@ -87,7 +87,7 @@ const Sliders = () => {
             advertise them on social media.
           </p>
         </div>
-        <div className='text-gray-600 md:pr-10'>
+        <div className='text-gray-600 '>
           <img
             src={image4}
             className='sliderimg py-3'

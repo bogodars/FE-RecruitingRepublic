@@ -7,6 +7,7 @@ import BottomReviewsSlider from './components/BottomReviewsSlider';
 
 import './App.css';
 import './index.css';
+
 function App() {
   return (
     <div className=''>

@@ -28,7 +28,7 @@ const Sliders = () => {
   };
   return (
     <div className='container mx-auto'>
-      <Slider {...settings} className='ml-2 md:flex '>
+      <Slider {...settings} className=' md:flex ml-2'>
         <div className='text-gray-600 md:pr-10'>
           <img
             src={image1}
@@ -106,6 +106,7 @@ const Sliders = () => {
           </p>
         </div>
       </Slider>
+      <div className='bg-red-200 h-10 hidden md:block'></div>
     </div>
   );
 };

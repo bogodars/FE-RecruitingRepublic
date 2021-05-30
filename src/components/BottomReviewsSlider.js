@@ -51,25 +51,25 @@ const BottomReviewsSlider = () => {
       </div>
       <Slider {...settings} className='ml-2 md:flex '>
         <div className='text-gray-600 md:pr-10'>
-          <img src={image1} className='sliderimg py-3 md:width-20' alt='img1' />
+          <img src={image1} className='py-3 md:width-20' alt='img1' />
           <h3 className='font-bold'>Owner</h3>
         </div>
 
         <div className='text-gray-600 md:pr-10'>
-          <img src={image2} className='sliderimg py-3' alt='img1' />
+          <img src={image2} className=' py-3' alt='image2' />
           <h3 className='font-bold'>Tutor</h3>
         </div>
         <div className='text-gray-600 md:pr-10'>
-          <img src={image3} className='sliderimg py-3' alt='img1' />
+          <img src={image3} className=' py-3' alt='image2' />
           <h3 className='font-bold'>Financial Advisor</h3>
         </div>
         <div className='text-gray-600 md:pr-10'>
-          <img src={image4} className='sliderimg py-3' alt='img1' />
+          <img src={image4} className='py-3' alt='image3' />
           <h3 className='font-bold'>Personal Care Giver</h3>
         </div>
 
         <div className='text-gray-600 md:pr-10'>
-          <img src={image5} className='sliderimg py-3' alt='img1' />
+          <img src={image5} className=' py-3' alt='image4' />
           <h3 className='font-bold'>Yoga Trainer</h3>
         </div>
 

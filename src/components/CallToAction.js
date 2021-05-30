@@ -26,7 +26,7 @@ const CallToAction = () => {
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
       }}
-      className='mt-10 '>
+      className='mt-10 md:mt-0 ml:mt-0'>
       <div className=' container mx-auto'>
         <div className='text-white pt-40 flex flex-col text-left content-center w-auto ml-3'>
           <h1 className='text-white text-3xl font-extrabold '>
